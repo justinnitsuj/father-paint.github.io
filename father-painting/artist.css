@@ -1,0 +1,11 @@
+.menu-pic{
+    display: block;
+    margin-left: -100px;
+    margin-top: 0px;
+    width:1400px;
+    height:400px;
+    padding-left: -1500px;
+}
+.container-fluid{
+    background-color: lightgray;
+}
